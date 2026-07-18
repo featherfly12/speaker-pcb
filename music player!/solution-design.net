@@ -1,0 +1,6607 @@
+(export
+	(version "E")
+	(design
+		(source "D:\\OneDrive - Stanford\\TA-tutoring\\BioE-Bootcamp\\bioe-bootcamp-pcb-workshop\\rick_roller\\rick_roller.kicad_sch")
+		(date "2026-05-18T22:25:39")
+		(tool "Eeschema 10.0.2")
+		(sheet
+			(number "1")
+			(name "/")
+			(tstamps "/")
+			(title_block
+				(title)
+				(company)
+				(rev)
+				(date)
+				(source "solution-design.kicad_sch")
+				(comment
+					(number "1")
+					(value "")
+				)
+				(comment
+					(number "2")
+					(value "")
+				)
+				(comment
+					(number "3")
+					(value "")
+				)
+				(comment
+					(number "4")
+					(value "")
+				)
+				(comment
+					(number "5")
+					(value "")
+				)
+				(comment
+					(number "6")
+					(value "")
+				)
+				(comment
+					(number "7")
+					(value "")
+				)
+				(comment
+					(number "8")
+					(value "")
+				)
+				(comment
+					(number "9")
+					(value "")
+				)
+			)
+		)
+	)
+	(components
+		(comp
+			(ref "C1")
+			(value "22uF")
+			(footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+			(description "22uF 25V X5R ±10% 1206")
+			(fields
+				(field
+					(name "JLC Part #") "C12891")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "22uF 25V X5R ±10% 1206")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "CL31A226KAHNNNE")
+				(description "22uF 25V X5R ±10% 1206")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C12891")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "18c3e5e5-3015-448b-8a5c-58234008abdb")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C2")
+			(value "18pF")
+			(footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder")
+			(description "CAP CER 18PF 50V C0G/NP0 0402")
+			(fields
+				(field
+					(name "JLC Part #") "C1549")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "CAP CER 18PF 50V C0G/NP0 0402")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "GJM1555C1H180GB01D")
+				(description "CAP CER 18PF 50V C0G/NP0 0402")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C1549")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "4dc8d424-04ee-4f2a-9669-bcd62015a99a")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C3")
+			(value "18pF")
+			(footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder")
+			(description "CAP CER 18PF 50V C0G/NP0 0402")
+			(fields
+				(field
+					(name "JLC Part #") "C1549")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "CAP CER 18PF 50V C0G/NP0 0402")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "GJM1555C1H180GB01D")
+				(description "CAP CER 18PF 50V C0G/NP0 0402")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C1549")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "7c6885af-1774-410a-9aa1-e3e6d616055a")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C4")
+			(value "0.1uF")
+			(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+			(description "CAP CER 0.1UF 25V X7R 0603")
+			(fields
+				(field
+					(name "JLC Part #") "C14663")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "CAP CER 0.1UF 25V X7R 0603")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "C0603C104K3RACTU")
+				(description "CAP CER 0.1UF 25V X7R 0603")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C14663")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "e537341e-875d-4435-9531-6da9d644f48c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C5")
+			(value "0.1uF")
+			(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+			(description "CAP CER 0.1UF 25V X7R 0603")
+			(fields
+				(field
+					(name "JLC Part #") "C14663")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "CAP CER 0.1UF 25V X7R 0603")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "C0603C104K3RACTU")
+				(description "CAP CER 0.1UF 25V X7R 0603")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C14663")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "cdf6eac4-23a4-47b1-981f-8700c167306e")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C6")
+			(value "4.7uF")
+			(footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+			(description "CAP CER 4.7UF 25V X7R 1206")
+			(fields
+				(field
+					(name "JLC Part #") "C29823")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "CAP CER 4.7UF 25V X7R 1206")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "CL31B475KAHNNNE")
+				(description "CAP CER 4.7UF 25V X7R 1206")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C29823")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "93ed08e5-f330-4680-ae0c-92a8e76a8170")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C7")
+			(value "10nF")
+			(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+			(description "10000 pF ±10% 100V Ceramic Capacitor C0G, NP0 0805 (2012 Metric)")
+			(fields
+				(field
+					(name "JLC Part #") "C1710")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "10000 pF ±10% 100V Ceramic Capacitor C0G, NP0 0805 (2012 Metric)")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "C0805X103K1GECAUTO")
+				(description "10000 pF ±10% 100V Ceramic Capacitor C0G, NP0 0805 (2012 Metric)")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C1710")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "5ee33b0b-8938-4d86-9bf2-ae8c01f4de78")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C8")
+			(value "1uF")
+			(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+			(description "CAP CER 1UF 25V X7R 0603")
+			(fields
+				(field
+					(name "JLC Part #") "C15849")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "CAP CER 1UF 25V X7R 0603")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "CL10B105KA8NNNC")
+				(description "CAP CER 1UF 25V X7R 0603")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C15849")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "7fe06f59-08fb-4cec-b777-0bf728d1279c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C9")
+			(value "0.1uF")
+			(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+			(description "CAP CER 0.1UF 25V X7R 0603")
+			(fields
+				(field
+					(name "JLC Part #") "C14663")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "CAP CER 0.1UF 25V X7R 0603")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "C0603C104K3RACTU")
+				(description "CAP CER 0.1UF 25V X7R 0603")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C14663")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "bfe19741-ced3-4a57-b949-ed730a465da8")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C10")
+			(value "0.1uF")
+			(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+			(description "CAP CER 0.1UF 25V X7R 0603")
+			(fields
+				(field
+					(name "JLC Part #") "C14663")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "CAP CER 0.1UF 25V X7R 0603")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "C0603C104K3RACTU")
+				(description "CAP CER 0.1UF 25V X7R 0603")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C14663")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "43496c55-a85f-47f1-b454-c1c473999176")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C11")
+			(value "0.1uF")
+			(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+			(description "CAP CER 0.1UF 25V X7R 0603")
+			(fields
+				(field
+					(name "JLC Part #") "C14663")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "CAP CER 0.1UF 25V X7R 0603")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "C0603C104K3RACTU")
+				(description "CAP CER 0.1UF 25V X7R 0603")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C14663")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "1594cc9a-9194-47e1-962b-7581a7ce7728")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C12")
+			(value "220uF")
+			(footprint "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
+			(description "CAP ALUM 220UF 20% 50V RADIAL TH")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "CAP ALUM 220UF 20% 50V RADIAL TH")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "ECA-1HM221")
+				(description "CAP ALUM 220UF 20% 50V RADIAL TH")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "CP_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "9e3fc3f9-b21d-4bf2-a376-ee0ce09759f9")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C13")
+			(value "0.1uF")
+			(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+			(description "CAP CER 0.1UF 25V X7R 0603")
+			(fields
+				(field
+					(name "JLC Part #") "C14663")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "CAP CER 0.1UF 25V X7R 0603")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "C0603C104K3RACTU")
+				(description "CAP CER 0.1UF 25V X7R 0603")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C14663")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "8a9fcdeb-528a-4267-b9a5-5157b1e64bf5")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C14")
+			(value "10uF")
+			(footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+			(description "CAP CER 10UF 25V X7R 1206")
+			(fields
+				(field
+					(name "JLC Part #") "C13585")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "CAP CER 10UF 25V X7R 1206")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "CL31B106KAHNFNE")
+				(description "CAP CER 10UF 25V X7R 1206")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C13585")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "b5bd38a2-02f7-45b5-ac42-2c3652059430")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C15")
+			(value "0.1uF")
+			(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+			(description "CAP CER 0.1UF 25V X7R 0603")
+			(fields
+				(field
+					(name "JLC Part #") "C14663")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "CAP CER 0.1UF 25V X7R 0603")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "C0603C104K3RACTU")
+				(description "CAP CER 0.1UF 25V X7R 0603")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C14663")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "1ef5ece5-9732-4295-a481-9bc03558d5f6")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C16")
+			(value "22uF")
+			(footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+			(description "22uF 25V X5R ±10% 1206")
+			(fields
+				(field
+					(name "JLC Part #") "C12891")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "22uF 25V X5R ±10% 1206")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "CL31A226KAHNNNE")
+				(description "22uF 25V X5R ±10% 1206")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C12891")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "63618296-8585-4e63-9657-8bffdf8aa265")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C18")
+			(value "10uF")
+			(footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+			(description "CAP CER 10UF 25V X7R 1206")
+			(fields
+				(field
+					(name "JLC Part #") "C13585")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "CAP CER 10UF 25V X7R 1206")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "CL31B106KAHNFNE")
+				(description "CAP CER 10UF 25V X7R 1206")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C13585")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "145f6020-aea0-4ef2-916a-0320061eac4f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C19")
+			(value "1uF")
+			(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+			(description "CAP CER 1UF 25V X7R 0603")
+			(fields
+				(field
+					(name "JLC Part #") "C15849")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "CAP CER 1UF 25V X7R 0603")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "CL10B105KA8NNNC")
+				(description "CAP CER 1UF 25V X7R 0603")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C15849")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "edb1c390-7118-4786-b8f7-9bed80d5e4e8")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C20")
+			(value "1uF")
+			(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+			(description "CAP CER 1UF 25V X7R 0603")
+			(fields
+				(field
+					(name "JLC Part #") "C15849")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "CAP CER 1UF 25V X7R 0603")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "CL10B105KA8NNNC")
+				(description "CAP CER 1UF 25V X7R 0603")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C15849")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "066db513-91fe-4cb8-a2af-c80ff9845c40")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C21")
+			(value "0.1uF")
+			(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+			(description "CAP CER 0.1UF 25V X7R 0603")
+			(fields
+				(field
+					(name "JLC Part #") "C14663")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "CAP CER 0.1UF 25V X7R 0603")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "C0603C104K3RACTU")
+				(description "CAP CER 0.1UF 25V X7R 0603")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C14663")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "4b783c6b-e7bf-45ab-b2e1-7a811b236d71")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C22")
+			(value "0.1uF")
+			(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+			(description "CAP CER 0.1UF 25V X7R 0603")
+			(fields
+				(field
+					(name "JLC Part #") "C14663")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "CAP CER 0.1UF 25V X7R 0603")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "C0603C104K3RACTU")
+				(description "CAP CER 0.1UF 25V X7R 0603")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C14663")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "bae87f14-6697-4a43-9330-572d79ae9ac3")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C23")
+			(value "0.1uF")
+			(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+			(description "CAP CER 0.1UF 25V X7R 0603")
+			(fields
+				(field
+					(name "JLC Part #") "C14663")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "CAP CER 0.1UF 25V X7R 0603")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "C0603C104K3RACTU")
+				(description "CAP CER 0.1UF 25V X7R 0603")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C14663")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "9641106b-6452-42fb-9932-0387bee3be61")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D1")
+			(value "SMAJ13A")
+			(footprint "project_footprints:DIONM5126X250N")
+			(datasheet "https://componentsearchengine.com/Datasheets/2/SMAJ13A.pdf")
+			(description "ESD Suppressors / TVS Diodes 400W 13V 5% Uni-Directional")
+			(fields
+				(field
+					(name "Height") "2.5")
+				(field
+					(name "Mouser Part Number") "576-SMAJ13A")
+				(field
+					(name "Mouser Price/Stock") "https://www.mouser.co.uk/ProductDetail/Littelfuse/SMAJ13A?qs=HR2RnyOI4E60xAs7pDj%2F%252BA%3D%3D")
+				(field
+					(name "Manufacturer_Name") "LITTELFUSE")
+				(field
+					(name "Manufacturer_Part_Number") "SMAJ13A")
+				(field
+					(name "JLC Part #") "C148214")
+				(field
+					(name "Footprint") "project_footprints:DIONM5126X250N")
+				(field
+					(name "Datasheet") "https://componentsearchengine.com/Datasheets/2/SMAJ13A.pdf")
+				(field
+					(name "Description") "ESD Suppressors / TVS Diodes 400W 13V 5% Uni-Directional")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "SMAJ13A")
+				(description "ESD Suppressors / TVS Diodes 400W 13V 5% Uni-Directional")
+			)
+			(property
+				(name "Height")
+				(value "2.5")
+			)
+			(property
+				(name "Mouser Part Number")
+				(value "576-SMAJ13A")
+			)
+			(property
+				(name "Mouser Price/Stock")
+				(value "https://www.mouser.co.uk/ProductDetail/Littelfuse/SMAJ13A?qs=HR2RnyOI4E60xAs7pDj%2F%252BA%3D%3D")
+			)
+			(property
+				(name "Manufacturer_Name")
+				(value "LITTELFUSE")
+			)
+			(property
+				(name "Manufacturer_Part_Number")
+				(value "SMAJ13A")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C148214")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "dda6db80-a930-4e67-8407-d2bc964f37a0")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D2")
+			(value "PESD3V3L4UG,115")
+			(footprint "project_footprints:PESD3V3L4UG115")
+			(datasheet "https://assets.nexperia.com/documents/data-sheet/PESDXL4UF_G_W.pdf")
+			(description "PESDxL4UF; PESDxL4UG; PESDxL4UW - Low capacitance unidirectional quadruple ESD protection diode arrays")
+			(fields
+				(field
+					(name "Height") "1.1")
+				(field
+					(name "Mouser Part Number") "771-PESD3V3L4UG-T/R")
+				(field
+					(name "Mouser Price/Stock") "https://www.mouser.co.uk/ProductDetail/Nexperia/PESD3V3L4UG115?qs=LOCUfHb8d9vNsg3o%2F%252BqX8A%3D%3D")
+				(field
+					(name "Manufacturer_Name") "Nexperia")
+				(field
+					(name "Manufacturer_Part_Number") "PESD3V3L4UG,115")
+				(field
+					(name "MFG") "Nexperia")
+				(field
+					(name "MFG #") "PESD3V3L4UG,115")
+				(field
+					(name "JLC Part #") "C70500")
+				(field
+					(name "Footprint") "project_footprints:PESD3V3L4UG115")
+				(field
+					(name "Datasheet") "https://assets.nexperia.com/documents/data-sheet/PESDXL4UF_G_W.pdf")
+				(field
+					(name "Description") "PESDxL4UF; PESDxL4UG; PESDxL4UW - Low capacitance unidirectional quadruple ESD protection diode arrays")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "PESD3V3L4UG,115")
+				(description "PESDxL4UF; PESDxL4UG; PESDxL4UW - Low capacitance unidirectional quadruple ESD protection diode arrays")
+			)
+			(property
+				(name "Height")
+				(value "1.1")
+			)
+			(property
+				(name "Mouser Part Number")
+				(value "771-PESD3V3L4UG-T/R")
+			)
+			(property
+				(name "Mouser Price/Stock")
+				(value "https://www.mouser.co.uk/ProductDetail/Nexperia/PESD3V3L4UG115?qs=LOCUfHb8d9vNsg3o%2F%252BqX8A%3D%3D")
+			)
+			(property
+				(name "Manufacturer_Name")
+				(value "Nexperia")
+			)
+			(property
+				(name "Manufacturer_Part_Number")
+				(value "PESD3V3L4UG,115")
+			)
+			(property
+				(name "MFG")
+				(value "Nexperia")
+			)
+			(property
+				(name "MFG #")
+				(value "PESD3V3L4UG,115")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C70500")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "d239b551-c8be-4fd0-becd-d0b247f6ce49")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D3")
+			(value "PESD3V3L1BA")
+			(footprint "Diode_SMD:D_SOD-323_HandSoldering")
+			(datasheet "https://assets.nexperia.com/documents/data-sheet/PESDXL5UF_V_Y.pdf")
+			(description "24V Clamp 20A (8/20µs) Ipp Tvs Diode Surface Mount SOD-323")
+			(fields
+				(field
+					(name "MFG") "UMW")
+				(field
+					(name "MFG #") "PESD3V3L1BA")
+				(field
+					(name "JLC Part #") "C2687129")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-323_HandSoldering")
+				(field
+					(name "Datasheet") "https://assets.nexperia.com/documents/data-sheet/PESDXL5UF_V_Y.pdf")
+				(field
+					(name "Description") "24V Clamp 20A (8/20µs) Ipp Tvs Diode Surface Mount SOD-323")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "PESD3V3L1BA")
+				(description "24V Clamp 20A (8/20µs) Ipp Tvs Diode Surface Mount SOD-323")
+			)
+			(property
+				(name "MFG")
+				(value "UMW")
+			)
+			(property
+				(name "MFG #")
+				(value "PESD3V3L1BA")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C2687129")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "SOT?363*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "b6b63d59-2cb9-49b7-8ac9-8add3fd3fc4e")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J1")
+			(value "Conn_ARM_SWD_TagConnect_TC2030")
+			(footprint "Connector:Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical")
+			(datasheet "https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2030-CTX_1.pdf")
+			(description "Tag-Connect ARM Cortex SWD JTAG connector, 6 pin")
+			(fields
+				(field
+					(name "Footprint") "Connector:Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical")
+				(field
+					(name "Datasheet") "https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2030-CTX_1.pdf")
+				(field
+					(name "Description") "Tag-Connect ARM Cortex SWD JTAG connector, 6 pin")
+			)
+			(libsource
+				(lib "Connector")
+				(part "Conn_ARM_SWD_TagConnect_TC2030")
+				(description "Tag-Connect ARM Cortex SWD JTAG connector, 6 pin")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "exclude_from_bom")
+			)
+			(property
+				(name "ki_keywords")
+				(value "Cortex Debug Connector ARM SWD JTAG")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "*TC2030*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "35a6b112-6626-44a1-b3a6-7cbedc9c12c4")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "6")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J2")
+			(value "PJ-002AH")
+			(footprint "project_footprints:CUI_PJ-002AH")
+			(fields
+				(field
+					(name "MFG") "Same Sky")
+				(field
+					(name "Footprint") "project_footprints:CUI_PJ-002AH")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "PJ-002AH")
+				(description "")
+			)
+			(property
+				(name "MFG")
+				(value "Same Sky")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "2da733e6-443b-43f3-8f90-406fd2e6141e")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "L1")
+			(value "4.7uH")
+			(footprint "project_footprints:IND_NRS6028T0R9NMGJV_TAY")
+			(datasheet "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/664/NRS6028T4R7MMGKV_SS.pdf")
+			(description "FIXED IND 4.7UH 3A 40.3 MOHM SMD")
+			(fields
+				(field
+					(name "MFG") "Taiyo Yuden")
+				(field
+					(name "MFG #") "NRS6028T4R7MMGKV")
+				(field
+					(name "Footprint") "project_footprints:IND_NRS6028T0R9NMGJV_TAY")
+				(field
+					(name "Datasheet") "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/664/NRS6028T4R7MMGKV_SS.pdf")
+				(field
+					(name "Description") "FIXED IND 4.7UH 3A 40.3 MOHM SMD")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "NRS6028T4R7MMGKV")
+				(description "FIXED IND 4.7UH 3A 40.3 MOHM SMD")
+			)
+			(property
+				(name "MFG")
+				(value "Taiyo Yuden")
+			)
+			(property
+				(name "MFG #")
+				(value "NRS6028T4R7MMGKV")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "inductor choke coil reactor magnetic")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Choke_* *Coil* Inductor_* L_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "954978d9-c9c1-4dab-bac1-6b5367f7ed07")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "LS1")
+			(value "Speaker")
+			(footprint "project_footprints:CES-46257-24-L200")
+			(datasheet "https://www.sameskydevices.com/product/resource/digikeypdf/ces-46257-24-l200.pdf")
+			(description "4 Ohms General Purpose Speaker 2 W 580 Hz ~ 20 kHz Top Rectangular")
+			(fields
+				(field
+					(name "Footprint") "project_footprints:CES-46257-24-L200")
+				(field
+					(name "Datasheet") "https://www.sameskydevices.com/product/resource/digikeypdf/ces-46257-24-l200.pdf")
+				(field
+					(name "Description") "4 Ohms General Purpose Speaker 2 W 580 Hz ~ 20 kHz Top Rectangular")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "CES-46257-24-L200")
+				(description "4 Ohms General Purpose Speaker 2 W 580 Hz ~ 20 kHz Top Rectangular")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "speaker sound")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "0a58804e-db11-4129-8c80-5db0ac9d86ed")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R1")
+			(value "10k")
+			(footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+			(description "Resistor, US symbol")
+			(fields
+				(field
+					(name "JLC Part #") "C17902")
+				(field
+					(name "Footprint") "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor, US symbol")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "RMCF1206FT10K0")
+				(description "Resistor, US symbol")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C17902")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "f91ae4c0-84ac-4ec6-8053-546bdc3e2c79")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R2")
+			(value "10k")
+			(footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+			(description "Resistor, US symbol")
+			(fields
+				(field
+					(name "JLC Part #") "C17902")
+				(field
+					(name "Footprint") "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor, US symbol")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "RMCF1206FT10K0")
+				(description "Resistor, US symbol")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C17902")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "f8d79ceb-c82b-41b9-99c9-171bba476d6c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R3")
+			(value "33")
+			(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+			(description "RES 33 OHM 1% 1/10W 0603")
+			(fields
+				(field
+					(name "JLC #") "C23140")
+				(field
+					(name "JLC Part #") "C23140")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "RES 33 OHM 1% 1/10W 0603")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "RC0603FR-0733RL")
+				(description "RES 33 OHM 1% 1/10W 0603")
+			)
+			(property
+				(name "JLC #")
+				(value "C23140")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C23140")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "e8a61d10-5e68-472d-a673-ff14913d4859")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R4")
+			(value "33")
+			(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+			(description "RES 33 OHM 1% 1/10W 0603")
+			(fields
+				(field
+					(name "JLC #") "C23140")
+				(field
+					(name "JLC Part #") "C23140")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "RES 33 OHM 1% 1/10W 0603")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "RC0603FR-0733RL")
+				(description "RES 33 OHM 1% 1/10W 0603")
+			)
+			(property
+				(name "JLC #")
+				(value "C23140")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C23140")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "dd054bae-a40f-4151-b5a2-5b26d96f05b2")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R5")
+			(value "33")
+			(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+			(description "RES 33 OHM 1% 1/10W 0603")
+			(fields
+				(field
+					(name "JLC #") "C23140")
+				(field
+					(name "JLC Part #") "C23140")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "RES 33 OHM 1% 1/10W 0603")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "RC0603FR-0733RL")
+				(description "RES 33 OHM 1% 1/10W 0603")
+			)
+			(property
+				(name "JLC #")
+				(value "C23140")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C23140")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "2078335c-30b2-42ba-b6cc-2c655bfa9856")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R6")
+			(value "33")
+			(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+			(description "RES 33 OHM 1% 1/10W 0603")
+			(fields
+				(field
+					(name "JLC #") "C23140")
+				(field
+					(name "JLC Part #") "C23140")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "RES 33 OHM 1% 1/10W 0603")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "RC0603FR-0733RL")
+				(description "RES 33 OHM 1% 1/10W 0603")
+			)
+			(property
+				(name "JLC #")
+				(value "C23140")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C23140")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "1500b9c6-d832-459a-a25b-d422a5a946f6")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R7")
+			(value "33")
+			(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+			(description "RES 33 OHM 1% 1/10W 0603")
+			(fields
+				(field
+					(name "JLC #") "C23140")
+				(field
+					(name "JLC Part #") "C23140")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "RES 33 OHM 1% 1/10W 0603")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "RC0603FR-0733RL")
+				(description "RES 33 OHM 1% 1/10W 0603")
+			)
+			(property
+				(name "JLC #")
+				(value "C23140")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C23140")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "fb0c5130-8ff3-4fee-a7cc-ad55abb7c630")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R8")
+			(value "33")
+			(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+			(description "RES 33 OHM 1% 1/10W 0603")
+			(fields
+				(field
+					(name "JLC #") "C23140")
+				(field
+					(name "JLC Part #") "C23140")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "RES 33 OHM 1% 1/10W 0603")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "RC0603FR-0733RL")
+				(description "RES 33 OHM 1% 1/10W 0603")
+			)
+			(property
+				(name "JLC #")
+				(value "C23140")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C23140")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "eeb4ad1b-2a7d-4065-b4ba-4f563a187157")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R9")
+			(value "33")
+			(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+			(description "RES 33 OHM 1% 1/10W 0603")
+			(fields
+				(field
+					(name "JLC #") "C23140")
+				(field
+					(name "JLC Part #") "C23140")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "RES 33 OHM 1% 1/10W 0603")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "RC0603FR-0733RL")
+				(description "RES 33 OHM 1% 1/10W 0603")
+			)
+			(property
+				(name "JLC #")
+				(value "C23140")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C23140")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "444f0249-3c00-454a-b224-48391379ea73")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R10")
+			(value "33")
+			(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+			(description "RES 33 OHM 1% 1/10W 0603")
+			(fields
+				(field
+					(name "JLC #") "C23140")
+				(field
+					(name "JLC Part #") "C23140")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "RES 33 OHM 1% 1/10W 0603")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "RC0603FR-0733RL")
+				(description "RES 33 OHM 1% 1/10W 0603")
+			)
+			(property
+				(name "JLC #")
+				(value "C23140")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C23140")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "d4e62113-4d0f-42a7-bfc2-82e4f7a2a156")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R11")
+			(value "33")
+			(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+			(description "RES 33 OHM 1% 1/10W 0603")
+			(fields
+				(field
+					(name "JLC #") "C23140")
+				(field
+					(name "JLC Part #") "C23140")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "RES 33 OHM 1% 1/10W 0603")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "RC0603FR-0733RL")
+				(description "RES 33 OHM 1% 1/10W 0603")
+			)
+			(property
+				(name "JLC #")
+				(value "C23140")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C23140")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "f0729626-aaaa-4f47-8350-bf94c6e11808")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R12")
+			(value "10k")
+			(footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+			(description "Resistor, US symbol")
+			(fields
+				(field
+					(name "JLC Part #") "C17902")
+				(field
+					(name "Footprint") "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor, US symbol")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "RMCF1206FT10K0")
+				(description "Resistor, US symbol")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C17902")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "5f5c129a-d13e-48e4-bc71-87061764b602")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R13")
+			(value "10k")
+			(footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+			(description "Resistor, US symbol")
+			(fields
+				(field
+					(name "JLC Part #") "C17902")
+				(field
+					(name "Footprint") "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor, US symbol")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "RMCF1206FT10K0")
+				(description "Resistor, US symbol")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C17902")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "f4d4af5d-1ab0-44b5-8652-36b7f03a2bf3")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R14")
+			(value "10k")
+			(footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+			(description "Resistor, US symbol")
+			(fields
+				(field
+					(name "JLC Part #") "C17902")
+				(field
+					(name "Footprint") "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor, US symbol")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "RMCF1206FT10K0")
+				(description "Resistor, US symbol")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C17902")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "9702e47b-df5d-4bf5-ad3f-5697b362ef7b")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R15")
+			(value "10k")
+			(footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+			(description "Resistor, US symbol")
+			(fields
+				(field
+					(name "JLC Part #") "C17902")
+				(field
+					(name "Footprint") "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor, US symbol")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "RMCF1206FT10K0")
+				(description "Resistor, US symbol")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C17902")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "f8b2d154-dfa2-49bf-8d51-5e5e0f7e2b3f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R16")
+			(value "3362P-1-502LF")
+			(footprint "project_footprints:POT_3362P")
+			(datasheet "3362P-1-502LF")
+			(description "5 kOhms 0.5W, 1/2W PC Pins Through Hole Trimmer Potentiometer Cermet 1.0 Turn Top Adjustment")
+			(fields
+				(field
+					(name "Footprint") "project_footprints:POT_3362P")
+				(field
+					(name "Datasheet") "3362P-1-502LF")
+				(field
+					(name "Description") "5 kOhms 0.5W, 1/2W PC Pins Through Hole Trimmer Potentiometer Cermet 1.0 Turn Top Adjustment")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "3362P-1-502LF")
+				(description "5 kOhms 0.5W, 1/2W PC Pins Through Hole Trimmer Potentiometer Cermet 1.0 Turn Top Adjustment")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "3362P-1-502LF")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "POT_3362P")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "09c3f5e2-44f1-41b2-b693-7bbb74cbcb79")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "3")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "S1")
+			(value "Switch")
+			(footprint "project_footprints:PTS647SK70SMTR2LFS")
+			(datasheet "https://www.ckswitches.com/media/2567/pts647.pdf")
+			(description "Tactile Switch SPST-NO Top Actuated Surface Mount 0.05A 12V")
+			(fields
+				(field
+					(name "MFG") "LITTELFUSE")
+				(field
+					(name "MFG #") "PTS647SM70SMTR2 LFS")
+				(field
+					(name "Footprint") "project_footprints:PTS647SK70SMTR2LFS")
+				(field
+					(name "Datasheet") "https://www.ckswitches.com/media/2567/pts647.pdf")
+				(field
+					(name "Description") "Tactile Switch SPST-NO Top Actuated Surface Mount 0.05A 12V")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "PTS647SM70SMTR2_LFS")
+				(description "Tactile Switch SPST-NO Top Actuated Surface Mount 0.05A 12V")
+			)
+			(property
+				(name "MFG")
+				(value "LITTELFUSE")
+			)
+			(property
+				(name "MFG #")
+				(value "PTS647SM70SMTR2 LFS")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "7e2fa371-f532-4ee3-8fe0-bd61560152e4")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "TP1")
+			(value "TestPoint")
+			(footprint "TestPoint:TestPoint_Loop_D2.54mm_Drill1.5mm_Beaded")
+			(description "test point")
+			(fields
+				(field
+					(name "Footprint") "TestPoint:TestPoint_Loop_D2.54mm_Drill1.5mm_Beaded")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "test point")
+			)
+			(libsource
+				(lib "Connector")
+				(part "TestPoint")
+				(description "test point")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "test point tp")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Pin* Test*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "19c00275-f792-4020-9d3b-fffba03ff849")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "TP2")
+			(value "TestPoint")
+			(footprint "TestPoint:TestPoint_Loop_D2.54mm_Drill1.5mm_Beaded")
+			(description "test point")
+			(fields
+				(field
+					(name "Footprint") "TestPoint:TestPoint_Loop_D2.54mm_Drill1.5mm_Beaded")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "test point")
+			)
+			(libsource
+				(lib "Connector")
+				(part "TestPoint")
+				(description "test point")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "test point tp")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Pin* Test*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "aaac31fa-1bdb-4e4e-8a3c-133f13ac8b57")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "TP3")
+			(value "TestPoint")
+			(footprint "TestPoint:TestPoint_Loop_D2.54mm_Drill1.5mm_Beaded")
+			(description "test point")
+			(fields
+				(field
+					(name "Footprint") "TestPoint:TestPoint_Loop_D2.54mm_Drill1.5mm_Beaded")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "test point")
+			)
+			(libsource
+				(lib "Connector")
+				(part "TestPoint")
+				(description "test point")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "test point tp")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Pin* Test*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "8aa1a3b8-e093-418f-9894-d84b84d22b65")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "TP4")
+			(value "TestPoint")
+			(footprint "TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded")
+			(description "test point")
+			(fields
+				(field
+					(name "Footprint") "TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "test point")
+			)
+			(libsource
+				(lib "Connector")
+				(part "TestPoint")
+				(description "test point")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "test point tp")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Pin* Test*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "2ad796d5-007f-4403-b71a-709dcff6e455")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U1")
+			(value "STM32L433CCT6")
+			(footprint "project_footprints:QFP50P900X900X160-48N")
+			(description "MCU 32-Bit STM32L433xx ARM Cortex M4 RISC 256KB Flash 1.8V/2.7V/3.3V 48-Pin LQFP Tray")
+			(fields
+				(field
+					(name "MF") "STMicroelectronics")
+				(field
+					(name "PACKAGE") "LQFP-48 STMicroelectronics")
+				(field
+					(name "PRICE") "4.28 USD")
+				(field
+					(name "MP") "STM32L433CCT6")
+				(field
+					(name "AVAILABILITY") "Good")
+				(field
+					(name "SNAPEDA_PACKAGE_ID") "5844")
+				(field
+					(name "MFG") "STMicroelectronics")
+				(field
+					(name "MFG #") "STM32L433CCT6")
+				(field
+					(name "JLC Part #") "C110061")
+				(field
+					(name "Footprint") "project_footprints:QFP50P900X900X160-48N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "MCU 32-Bit STM32L433xx ARM Cortex M4 RISC 256KB Flash 1.8V/2.7V/3.3V 48-Pin LQFP Tray")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "STM32L433CCT6")
+				(description "MCU 32-Bit STM32L433xx ARM Cortex M4 RISC 256KB Flash 1.8V/2.7V/3.3V 48-Pin LQFP Tray")
+			)
+			(property
+				(name "MF")
+				(value "STMicroelectronics")
+			)
+			(property
+				(name "PACKAGE")
+				(value "LQFP-48 STMicroelectronics")
+			)
+			(property
+				(name "PRICE")
+				(value "4.28 USD")
+			)
+			(property
+				(name "MP")
+				(value "STM32L433CCT6")
+			)
+			(property
+				(name "AVAILABILITY")
+				(value "Good")
+			)
+			(property
+				(name "SNAPEDA_PACKAGE_ID")
+				(value "5844")
+			)
+			(property
+				(name "MFG")
+				(value "STMicroelectronics")
+			)
+			(property
+				(name "MFG #")
+				(value "STM32L433CCT6")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C110061")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "596c16a2-3965-44bd-9410-ade544736513")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "15")
+						)
+						(pin
+							(num "16")
+						)
+						(pin
+							(num "17")
+						)
+						(pin
+							(num "29")
+						)
+						(pin
+							(num "30")
+						)
+						(pin
+							(num "31")
+						)
+						(pin
+							(num "32")
+						)
+						(pin
+							(num "33")
+						)
+						(pin
+							(num "34")
+						)
+						(pin
+							(num "37")
+						)
+						(pin
+							(num "38")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "24")
+						)
+						(pin
+							(num "48")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "36")
+						)
+						(pin
+							(num "18")
+						)
+						(pin
+							(num "19")
+						)
+						(pin
+							(num "20")
+						)
+						(pin
+							(num "39")
+						)
+						(pin
+							(num "40")
+						)
+						(pin
+							(num "41")
+						)
+						(pin
+							(num "42")
+						)
+						(pin
+							(num "43")
+						)
+						(pin
+							(num "45")
+						)
+						(pin
+							(num "46")
+						)
+						(pin
+							(num "21")
+						)
+						(pin
+							(num "22")
+						)
+						(pin
+							(num "25")
+						)
+						(pin
+							(num "26")
+						)
+						(pin
+							(num "27")
+						)
+						(pin
+							(num "28")
+						)
+						(pin
+							(num "44")
+						)
+						(pin
+							(num "23")
+						)
+						(pin
+							(num "35")
+						)
+						(pin
+							(num "47")
+						)
+						(pin
+							(num "8")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U2")
+			(value "W25Q128JVEIQ")
+			(footprint "project_footprints:WSON_128JVEIQ_WIN-M")
+			(datasheet "W25Q128JVEIQ")
+			(description "16MB Flash Storage Quad SPI")
+			(fields
+				(field
+					(name "MFG") "Winbond Electronics")
+				(field
+					(name "JLC Part #") "C2456297")
+				(field
+					(name "MFG #") "W25Q128JVEIQ")
+				(field
+					(name "Footprint") "project_footprints:WSON_128JVEIQ_WIN-M")
+				(field
+					(name "Datasheet") "W25Q128JVEIQ")
+				(field
+					(name "Description") "16MB Flash Storage Quad SPI")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "W25Q128JVEIQ")
+				(description "16MB Flash Storage Quad SPI")
+			)
+			(property
+				(name "MFG")
+				(value "Winbond Electronics")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C2456297")
+			)
+			(property
+				(name "MFG #")
+				(value "W25Q128JVEIQ")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "W25Q128JVEIQ")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "WSON_128JVEIQ_WIN WSON_128JVEIQ_WIN-M WSON_128JVEIQ_WIN-L")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "674602a9-185a-4c2f-877c-bc423b04ef98")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "5")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U3")
+			(value "MAX98357AETE+T")
+			(footprint "project_footprints:21-0136I_T1633-4_MXM-M")
+			(datasheet "MAX98357AETE+T")
+			(description "Class D I2S Speaker Driver 3W")
+			(fields
+				(field
+					(name "MFG") "Analog Devices")
+				(field
+					(name "MFG #") "MAX98357AETE+T")
+				(field
+					(name "JLC Part #") "C910544")
+				(field
+					(name "Footprint") "project_footprints:21-0136I_T1633-4_MXM-M")
+				(field
+					(name "Datasheet") "MAX98357AETE+T")
+				(field
+					(name "Description") "Class D I2S Speaker Driver 3W")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "MAX98357AETE+T")
+				(description "Class D I2S Speaker Driver 3W")
+			)
+			(property
+				(name "MFG")
+				(value "Analog Devices")
+			)
+			(property
+				(name "MFG #")
+				(value "MAX98357AETE+T")
+			)
+			(property
+				(name "JLC Part #")
+				(value "C910544")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "MAX98357AETE+T")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "21-0136I_T1633-4_MXM 21-0136I_T1633-4_MXM-M 21-0136I_T1633-4_MXM-L")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "2fa93d6f-132f-46bd-a1b1-7970ce2565b0")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "17")
+						)
+						(pin
+							(num "16")
+						)
+						(pin
+							(num "15")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "9")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U4")
+			(value "AP63205WU-7")
+			(footprint "project_footprints:SOIC_05WU-7_DIO-M")
+			(datasheet "AP63205WU-7")
+			(description "IC REG BUCK 5V 2A TSOT23-6")
+			(fields
+				(field
+					(name "MFG") "Diodes Inc")
+				(field
+					(name "Footprint") "project_footprints:SOIC_05WU-7_DIO-M")
+				(field
+					(name "Datasheet") "AP63205WU-7")
+				(field
+					(name "Description") "IC REG BUCK 5V 2A TSOT23-6")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "AP63205WU-7")
+				(description "IC REG BUCK 5V 2A TSOT23-6")
+			)
+			(property
+				(name "MFG")
+				(value "Diodes Inc")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "AP63205WU-7")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "SOIC_05WU-7_DIO SOIC_05WU-7_DIO-M SOIC_05WU-7_DIO-L")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "fbde3eff-dac8-4342-8e51-5cfea909c047")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U5")
+			(value "AP2112K-3.3TRG1")
+			(footprint "project_footprints:SOT_RG1_DIO-M")
+			(datasheet "AP2112K-3.3TRG1")
+			(description "Linear Voltage Regulator IC Positive Fixed 1 Output 600mA SOT-25")
+			(fields
+				(field
+					(name "MFG") "Diodes Inc.")
+				(field
+					(name "Footprint") "project_footprints:SOT_RG1_DIO-M")
+				(field
+					(name "Datasheet") "AP2112K-3.3TRG1")
+				(field
+					(name "Description") "Linear Voltage Regulator IC Positive Fixed 1 Output 600mA SOT-25")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "AP2112K-3.3TRG1")
+				(description "Linear Voltage Regulator IC Positive Fixed 1 Output 600mA SOT-25")
+			)
+			(property
+				(name "MFG")
+				(value "Diodes Inc.")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "AP2112K-3.3TRG1")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "SOT_RG1_DIO SOT_RG1_DIO-M SOT_RG1_DIO-L")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "f6dc889f-87dd-4468-bd1b-0edf0e51ca97")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "3")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "Y1")
+			(value "ECS-80-12-33-JGN-TR")
+			(footprint "project_footprints:XTAL_ECS-240-8-33-AGN-TR")
+			(description "8 MHz ±20ppm Crystal 12pF 400 Ohms 4-SMD, No Lead")
+			(fields
+				(field
+					(name "MFG") "ECS INC")
+				(field
+					(name "Footprint") "project_footprints:XTAL_ECS-240-8-33-AGN-TR")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "8 MHz ±20ppm Crystal 12pF 400 Ohms 4-SMD, No Lead")
+			)
+			(libsource
+				(lib "project_symbols")
+				(part "ECS-80-12-33-JGN-TR")
+				(description "8 MHz ±20ppm Crystal 12pF 400 Ohms 4-SMD, No Lead")
+			)
+			(property
+				(name "MFG")
+				(value "ECS INC")
+			)
+			(property
+				(name "Sheetname")
+				(value "rick_roller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "rick_roller.kicad_sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "d3daaf85-1ea6-4f14-ac99-7614da6024a9")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+	)
+	(groups)
+	(variants)
+	(libparts
+		(libpart
+			(lib "Connector")
+			(part "Conn_ARM_SWD_TagConnect_TC2030")
+			(description "Tag-Connect ARM Cortex SWD JTAG connector, 6 pin")
+			(docs "https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2030-CTX_1.pdf")
+			(footprints
+				(fp "*TC2030*")
+			)
+			(fields
+				(field
+					(name "Reference") "J")
+				(field
+					(name "Value") "Conn_ARM_SWD_TagConnect_TC2030")
+				(field
+					(name "Footprint") "Connector:Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical")
+				(field
+					(name "Datasheet") "https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2030-CTX_1.pdf")
+				(field
+					(name "Description") "Tag-Connect ARM Cortex SWD JTAG connector, 6 pin")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "VCC")
+					(type "power_in")
+				)
+				(pin
+					(num "2")
+					(name "SWDIO")
+					(type "bidirectional")
+				)
+				(pin
+					(num "3")
+					(name "~{RESET}")
+					(type "open_collector")
+				)
+				(pin
+					(num "4")
+					(name "SWCLK")
+					(type "output")
+				)
+				(pin
+					(num "5")
+					(name "GND")
+					(type "power_in")
+				)
+				(pin
+					(num "6")
+					(name "SWO")
+					(type "input")
+				)
+			)
+		)
+		(libpart
+			(lib "Connector")
+			(part "TestPoint")
+			(description "test point")
+			(footprints
+				(fp "Pin*")
+				(fp "Test*")
+			)
+			(fields
+				(field
+					(name "Reference") "TP")
+				(field
+					(name "Value") "TestPoint")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "test point")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "1")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "project_symbols")
+			(part "3362P-1-502LF")
+			(description "5 kOhms 0.5W, 1/2W PC Pins Through Hole Trimmer Potentiometer Cermet 1.0 Turn Top Adjustment")
+			(docs "3362P-1-502LF")
+			(footprints
+				(fp "POT_3362P")
+			)
+			(fields
+				(field
+					(name "Reference") "R")
+				(field
+					(name "Value") "3362P-1-502LF")
+				(field
+					(name "Footprint") "project_footprints:POT_3362P")
+				(field
+					(name "Datasheet") "3362P-1-502LF")
+				(field
+					(name "Description") "5 kOhms 0.5W, 1/2W PC Pins Through Hole Trimmer Potentiometer Cermet 1.0 Turn Top Adjustment")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "1")
+					(type "unspecified")
+				)
+				(pin
+					(num "2")
+					(name "2")
+					(type "unspecified")
+				)
+				(pin
+					(num "3")
+					(name "3")
+					(type "unspecified")
+				)
+			)
+		)
+		(libpart
+			(lib "project_symbols")
+			(part "AP2112K-3.3TRG1")
+			(description "Linear Voltage Regulator IC Positive Fixed 1 Output 600mA SOT-25")
+			(docs "AP2112K-3.3TRG1")
+			(footprints
+				(fp "SOT_RG1_DIO")
+				(fp "SOT_RG1_DIO-M")
+				(fp "SOT_RG1_DIO-L")
+			)
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value") "AP2112K-3.3TRG1")
+				(field
+					(name "Footprint") "project_footprints:SOT_RG1_DIO-M")
+				(field
+					(name "Datasheet") "AP2112K-3.3TRG1")
+				(field
+					(name "Description") "Linear Voltage Regulator IC Positive Fixed 1 Output 600mA SOT-25")
+				(field
+					(name "MFG") "Diodes Inc.")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "VIN")
+					(type "unspecified")
+				)
+				(pin
+					(num "2")
+					(name "GND")
+					(type "unspecified")
+				)
+				(pin
+					(num "3")
+					(name "EN")
+					(type "unspecified")
+				)
+				(pin
+					(num "4")
+					(name "NC")
+					(type "unspecified")
+				)
+				(pin
+					(num "5")
+					(name "VOUT")
+					(type "unspecified")
+				)
+			)
+		)
+		(libpart
+			(lib "project_symbols")
+			(part "AP63205WU-7")
+			(description "IC REG BUCK 5V 2A TSOT23-6")
+			(docs "AP63205WU-7")
+			(footprints
+				(fp "SOIC_05WU-7_DIO")
+				(fp "SOIC_05WU-7_DIO-M")
+				(fp "SOIC_05WU-7_DIO-L")
+			)
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value") "AP63205WU-7")
+				(field
+					(name "Footprint") "project_footprints:SOIC_05WU-7_DIO-M")
+				(field
+					(name "Datasheet") "AP63205WU-7")
+				(field
+					(name "Description") "IC REG BUCK 5V 2A TSOT23-6")
+				(field
+					(name "MFG") "Diodes Inc")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "FB")
+					(type "unspecified")
+				)
+				(pin
+					(num "2")
+					(name "EN")
+					(type "unspecified")
+				)
+				(pin
+					(num "3")
+					(name "VIN")
+					(type "unspecified")
+				)
+				(pin
+					(num "4")
+					(name "GND")
+					(type "power_out")
+				)
+				(pin
+					(num "5")
+					(name "SW")
+					(type "unspecified")
+				)
+				(pin
+					(num "6")
+					(name "BST")
+					(type "unspecified")
+				)
+			)
+		)
+		(libpart
+			(lib "project_symbols")
+			(part "C0603C104K3RACTU")
+			(description "CAP CER 0.1UF 25V X7R 0603")
+			(footprints
+				(fp "C_*")
+			)
+			(fields
+				(field
+					(name "Reference") "C")
+				(field
+					(name "Value") "0.1uF")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "CAP CER 0.1UF 25V X7R 0603")
+				(field
+					(name "JLC Part #") "C14663")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "project_symbols")
+			(part "C0805X103K1GECAUTO")
+			(description "10000 pF ±10% 100V Ceramic Capacitor C0G, NP0 0805 (2012 Metric)")
+			(footprints
+				(fp "C_*")
+			)
+			(fields
+				(field
+					(name "Reference") "C")
+				(field
+					(name "Value") "10nF")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "10000 pF ±10% 100V Ceramic Capacitor C0G, NP0 0805 (2012 Metric)")
+				(field
+					(name "JLC Part #") "C1710")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "project_symbols")
+			(part "CES-46257-24-L200")
+			(description "4 Ohms General Purpose Speaker 2 W 580 Hz ~ 20 kHz Top Rectangular")
+			(docs "https://www.sameskydevices.com/product/resource/digikeypdf/ces-46257-24-l200.pdf")
+			(fields
+				(field
+					(name "Reference") "LS")
+				(field
+					(name "Value") "Speaker")
+				(field
+					(name "Footprint") "project_footprints:CES-46257-24-L200")
+				(field
+					(name "Datasheet") "https://www.sameskydevices.com/product/resource/digikeypdf/ces-46257-24-l200.pdf")
+				(field
+					(name "Description") "4 Ohms General Purpose Speaker 2 W 580 Hz ~ 20 kHz Top Rectangular")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "1")
+					(type "input")
+				)
+				(pin
+					(num "2")
+					(name "2")
+					(type "input")
+				)
+			)
+		)
+		(libpart
+			(lib "project_symbols")
+			(part "CL10B105KA8NNNC")
+			(description "CAP CER 1UF 25V X7R 0603")
+			(footprints
+				(fp "C_*")
+			)
+			(fields
+				(field
+					(name "Reference") "C")
+				(field
+					(name "Value") "1uF")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "CAP CER 1UF 25V X7R 0603")
+				(field
+					(name "JLC Part #") "C15849")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "project_symbols")
+			(part "CL31A226KAHNNNE")
+			(description "22uF 25V X5R ±10% 1206")
+			(footprints
+				(fp "C_*")
+			)
+			(fields
+				(field
+					(name "Reference") "C")
+				(field
+					(name "Value") "22uF")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "22uF 25V X5R ±10% 1206")
+				(field
+					(name "JLC Part #") "C12891")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "project_symbols")
+			(part "CL31B106KAHNFNE")
+			(description "CAP CER 10UF 25V X7R 1206")
+			(footprints
+				(fp "C_*")
+			)
+			(fields
+				(field
+					(name "Reference") "C")
+				(field
+					(name "Value") "10uF")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "CAP CER 10UF 25V X7R 1206")
+				(field
+					(name "JLC Part #") "C13585")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "project_symbols")
+			(part "CL31B475KAHNNNE")
+			(description "CAP CER 4.7UF 25V X7R 1206")
+			(footprints
+				(fp "C_*")
+			)
+			(fields
+				(field
+					(name "Reference") "C")
+				(field
+					(name "Value") "4.7uF")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "CAP CER 4.7UF 25V X7R 1206")
+				(field
+					(name "JLC Part #") "C29823")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "project_symbols")
+			(part "ECA-1HM221")
+			(description "CAP ALUM 220UF 20% 50V RADIAL TH")
+			(footprints
+				(fp "CP_*")
+			)
+			(fields
+				(field
+					(name "Reference") "C")
+				(field
+					(name "Value") "220uF")
+				(field
+					(name "Footprint") "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "CAP ALUM 220UF 20% 50V RADIAL TH")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "project_symbols")
+			(part "ECS-80-12-33-JGN-TR")
+			(description "8 MHz ±20ppm Crystal 12pF 400 Ohms 4-SMD, No Lead")
+			(fields
+				(field
+					(name "Reference") "Y")
+				(field
+					(name "Value") "ECS-80-12-33-JGN-TR")
+				(field
+					(name "Footprint") "project_footprints:XTAL_ECS-240-8-33-AGN-TR")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "8 MHz ±20ppm Crystal 12pF 400 Ohms 4-SMD, No Lead")
+				(field
+					(name "MFG") "ECS INC")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "IN/OUT")
+					(type "bidirectional")
+				)
+				(pin
+					(num "2")
+					(name "GND")
+					(type "power_in")
+				)
+				(pin
+					(num "3")
+					(name "OUT/IN")
+					(type "bidirectional")
+				)
+				(pin
+					(num "4")
+					(name "GND__1")
+					(type "power_in")
+				)
+			)
+		)
+		(libpart
+			(lib "project_symbols")
+			(part "GJM1555C1H180GB01D")
+			(description "CAP CER 18PF 50V C0G/NP0 0402")
+			(footprints
+				(fp "C_*")
+			)
+			(fields
+				(field
+					(name "Reference") "C")
+				(field
+					(name "Value") "18pF")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "CAP CER 18PF 50V C0G/NP0 0402")
+				(field
+					(name "JLC Part #") "C1549")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "project_symbols")
+			(part "MAX98357AETE+T")
+			(description "Class D I2S Speaker Driver 3W")
+			(docs "MAX98357AETE+T")
+			(footprints
+				(fp "21-0136I_T1633-4_MXM")
+				(fp "21-0136I_T1633-4_MXM-M")
+				(fp "21-0136I_T1633-4_MXM-L")
+			)
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value") "MAX98357AETE+T")
+				(field
+					(name "Footprint") "project_footprints:21-0136I_T1633-4_MXM-M")
+				(field
+					(name "Datasheet") "MAX98357AETE+T")
+				(field
+					(name "Description") "Class D I2S Speaker Driver 3W")
+				(field
+					(name "MFG") "Analog Devices")
+				(field
+					(name "MFG #") "MAX98357AETE+T")
+				(field
+					(name "JLC Part #") "C910544")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "DIN")
+					(type "unspecified")
+				)
+				(pin
+					(num "2")
+					(name "GAIN_SLOT")
+					(type "unspecified")
+				)
+				(pin
+					(num "3")
+					(name "GND")
+					(type "power_out")
+				)
+				(pin
+					(num "4")
+					(name "*SD_MODE")
+					(type "unspecified")
+				)
+				(pin
+					(num "5")
+					(name "N.C.")
+					(type "no_connect")
+				)
+				(pin
+					(num "6")
+					(name "N.C.")
+					(type "no_connect")
+				)
+				(pin
+					(num "7")
+					(name "VDD")
+					(type "power_in")
+				)
+				(pin
+					(num "8")
+					(name "VDD")
+					(type "power_in")
+				)
+				(pin
+					(num "9")
+					(name "OUTP")
+					(type "output")
+				)
+				(pin
+					(num "10")
+					(name "OUTN")
+					(type "output")
+				)
+				(pin
+					(num "11")
+					(name "GND")
+					(type "power_out")
+				)
+				(pin
+					(num "12")
+					(name "N.C.")
+					(type "no_connect")
+				)
+				(pin
+					(num "13")
+					(name "N.C.")
+					(type "no_connect")
+				)
+				(pin
+					(num "14")
+					(name "LRCLK")
+					(type "unspecified")
+				)
+				(pin
+					(num "15")
+					(name "GND")
+					(type "power_out")
+				)
+				(pin
+					(num "16")
+					(name "BCLK")
+					(type "unspecified")
+				)
+				(pin
+					(num "17")
+					(name "EPAD")
+					(type "unspecified")
+				)
+			)
+		)
+		(libpart
+			(lib "project_symbols")
+			(part "NRS6028T4R7MMGKV")
+			(description "FIXED IND 4.7UH 3A 40.3 MOHM SMD")
+			(docs "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/664/NRS6028T4R7MMGKV_SS.pdf")
+			(footprints
+				(fp "Choke_*")
+				(fp "*Coil*")
+				(fp "Inductor_*")
+				(fp "L_*")
+			)
+			(fields
+				(field
+					(name "Reference") "L")
+				(field
+					(name "Value") "4.7uH")
+				(field
+					(name "Footprint") "project_footprints:IND_NRS6028T0R9NMGJV_TAY")
+				(field
+					(name "Datasheet") "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/664/NRS6028T4R7MMGKV_SS.pdf")
+				(field
+					(name "Description") "FIXED IND 4.7UH 3A 40.3 MOHM SMD")
+				(field
+					(name "MFG") "Taiyo Yuden")
+				(field
+					(name "MFG #") "NRS6028T4R7MMGKV")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "2")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "project_symbols")
+			(part "PESD3V3L1BA")
+			(description "24V Clamp 20A (8/20µs) Ipp Tvs Diode Surface Mount SOD-323")
+			(docs "https://assets.nexperia.com/documents/data-sheet/PESDXL5UF_V_Y.pdf")
+			(footprints
+				(fp "SOT?363*")
+			)
+			(fields
+				(field
+					(name "Reference") "D")
+				(field
+					(name "Value") "PESD3V3L1BA")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-323_HandSoldering")
+				(field
+					(name "Datasheet") "https://assets.nexperia.com/documents/data-sheet/PESDXL5UF_V_Y.pdf")
+				(field
+					(name "Description") "24V Clamp 20A (8/20µs) Ipp Tvs Diode Surface Mount SOD-323")
+				(field
+					(name "MFG") "UMW")
+				(field
+					(name "MFG #") "PESD3V3L1BA")
+				(field
+					(name "JLC Part #") "C2687129")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "K1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "A")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "project_symbols")
+			(part "PESD3V3L4UG,115")
+			(description "PESDxL4UF; PESDxL4UG; PESDxL4UW - Low capacitance unidirectional quadruple ESD protection diode arrays")
+			(docs "https://assets.nexperia.com/documents/data-sheet/PESDXL4UF_G_W.pdf")
+			(fields
+				(field
+					(name "Reference") "D")
+				(field
+					(name "Value") "PESD3V3L4UG,115")
+				(field
+					(name "Footprint") "project_footprints:PESD3V3L4UG115")
+				(field
+					(name "Datasheet") "https://assets.nexperia.com/documents/data-sheet/PESDXL4UF_G_W.pdf")
+				(field
+					(name "Description") "PESDxL4UF; PESDxL4UG; PESDxL4UW - Low capacitance unidirectional quadruple ESD protection diode arrays")
+				(field
+					(name "Height") "1.1")
+				(field
+					(name "Mouser Part Number") "771-PESD3V3L4UG-T/R")
+				(field
+					(name "Mouser Price/Stock") "https://www.mouser.co.uk/ProductDetail/Nexperia/PESD3V3L4UG115?qs=LOCUfHb8d9vNsg3o%2F%252BqX8A%3D%3D")
+				(field
+					(name "MFG") "Nexperia")
+				(field
+					(name "MFG #") "PESD3V3L4UG,115")
+				(field
+					(name "JLC Part #") "C70500")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "CATHODE_(DIODE_1)")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "COMMON_ANODE")
+					(type "passive")
+				)
+				(pin
+					(num "3")
+					(name "CATHODE_(DIODE_2)")
+					(type "passive")
+				)
+				(pin
+					(num "4")
+					(name "CATHODE_(DIODE_3)")
+					(type "passive")
+				)
+				(pin
+					(num "5")
+					(name "CATHODE_(DIODE_4)")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "project_symbols")
+			(part "PJ-002AH")
+			(fields
+				(field
+					(name "Reference") "J")
+				(field
+					(name "Value") "PJ-002AH")
+				(field
+					(name "Footprint") "project_footprints:CUI_PJ-002AH")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+				(field
+					(name "MFG") "Same Sky")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "3")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "project_symbols")
+			(part "PTS647SM70SMTR2_LFS")
+			(description "Tactile Switch SPST-NO Top Actuated Surface Mount 0.05A 12V")
+			(docs "https://www.ckswitches.com/media/2567/pts647.pdf")
+			(fields
+				(field
+					(name "Reference") "S")
+				(field
+					(name "Value") "Switch")
+				(field
+					(name "Footprint") "project_footprints:PTS647SK70SMTR2LFS")
+				(field
+					(name "Datasheet") "https://www.ckswitches.com/media/2567/pts647.pdf")
+				(field
+					(name "Description") "Tactile Switch SPST-NO Top Actuated Surface Mount 0.05A 12V")
+				(field
+					(name "MFG") "LITTELFUSE")
+				(field
+					(name "MFG #") "PTS647SM70SMTR2 LFS")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "NO_1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "NO_2")
+					(type "passive")
+				)
+				(pin
+					(num "3")
+					(name "COM_1")
+					(type "passive")
+				)
+				(pin
+					(num "4")
+					(name "COM_2")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "project_symbols")
+			(part "RC0603FR-0733RL")
+			(description "RES 33 OHM 1% 1/10W 0603")
+			(footprints
+				(fp "R_*")
+			)
+			(fields
+				(field
+					(name "Reference") "R")
+				(field
+					(name "Value") "33")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "RES 33 OHM 1% 1/10W 0603")
+				(field
+					(name "JLC Part #") "C23140")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "project_symbols")
+			(part "RMCF1206FT10K0")
+			(description "Resistor, US symbol")
+			(footprints
+				(fp "R_*")
+			)
+			(fields
+				(field
+					(name "Reference") "R")
+				(field
+					(name "Value") "10k")
+				(field
+					(name "Footprint") "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor, US symbol")
+				(field
+					(name "JLC Part #") "C17902")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "project_symbols")
+			(part "SMAJ13A")
+			(description "ESD Suppressors / TVS Diodes 400W 13V 5% Uni-Directional")
+			(docs "https://componentsearchengine.com/Datasheets/2/SMAJ13A.pdf")
+			(fields
+				(field
+					(name "Reference") "D")
+				(field
+					(name "Value") "SMAJ13A")
+				(field
+					(name "Footprint") "project_footprints:DIONM5126X250N")
+				(field
+					(name "Datasheet") "https://componentsearchengine.com/Datasheets/2/SMAJ13A.pdf")
+				(field
+					(name "Description") "ESD Suppressors / TVS Diodes 400W 13V 5% Uni-Directional")
+				(field
+					(name "Height") "2.5")
+				(field
+					(name "Mouser Part Number") "576-SMAJ13A")
+				(field
+					(name "Mouser Price/Stock") "https://www.mouser.co.uk/ProductDetail/Littelfuse/SMAJ13A?qs=HR2RnyOI4E60xAs7pDj%2F%252BA%3D%3D")
+				(field
+					(name "Manufacturer_Name") "LITTELFUSE")
+				(field
+					(name "Manufacturer_Part_Number") "SMAJ13A")
+				(field
+					(name "JLC Part #") "C148214")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "K")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "A")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "project_symbols")
+			(part "STM32L433CCT6")
+			(description "MCU 32-Bit STM32L433xx ARM Cortex M4 RISC 256KB Flash 1.8V/2.7V/3.3V 48-Pin LQFP Tray")
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value") "STM32L433CCT6")
+				(field
+					(name "Footprint") "project_footprints:QFP50P900X900X160-48N")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "MCU 32-Bit STM32L433xx ARM Cortex M4 RISC 256KB Flash 1.8V/2.7V/3.3V 48-Pin LQFP Tray")
+				(field
+					(name "MFG") "STMicroelectronics")
+				(field
+					(name "PACKAGE") "LQFP-48 STMicroelectronics")
+				(field
+					(name "PRICE") "4.28 USD")
+				(field
+					(name "MP") "STM32L433CCT6")
+				(field
+					(name "AVAILABILITY") "Good")
+				(field
+					(name "SNAPEDA_PACKAGE_ID") "5844")
+				(field
+					(name "MFG #") "STM32L433CCT6")
+				(field
+					(name "JLC Part #") "C110061")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "VBAT")
+					(type "power_in")
+				)
+				(pin
+					(num "2")
+					(name "PC13")
+					(type "bidirectional")
+				)
+				(pin
+					(num "3")
+					(name "PC14-OSC32_IN")
+					(type "bidirectional")
+				)
+				(pin
+					(num "4")
+					(name "PC15-OSC32_OUT")
+					(type "bidirectional")
+				)
+				(pin
+					(num "5")
+					(name "PH0-OSC_IN")
+					(type "bidirectional")
+				)
+				(pin
+					(num "6")
+					(name "PH1-OSC_OUT")
+					(type "bidirectional")
+				)
+				(pin
+					(num "7")
+					(name "~{RST}")
+					(type "input")
+				)
+				(pin
+					(num "8")
+					(name "VSSA/VREF_M")
+					(type "power_in")
+				)
+				(pin
+					(num "9")
+					(name "VDDA/VREF_P")
+					(type "power_in")
+				)
+				(pin
+					(num "10")
+					(name "PA0")
+					(type "bidirectional")
+				)
+				(pin
+					(num "11")
+					(name "PA1")
+					(type "bidirectional")
+				)
+				(pin
+					(num "12")
+					(name "PA2")
+					(type "bidirectional")
+				)
+				(pin
+					(num "13")
+					(name "PA3")
+					(type "bidirectional")
+				)
+				(pin
+					(num "14")
+					(name "PA4")
+					(type "bidirectional")
+				)
+				(pin
+					(num "15")
+					(name "PA5")
+					(type "bidirectional")
+				)
+				(pin
+					(num "16")
+					(name "PA6")
+					(type "bidirectional")
+				)
+				(pin
+					(num "17")
+					(name "PA7")
+					(type "bidirectional")
+				)
+				(pin
+					(num "18")
+					(name "PB0")
+					(type "bidirectional")
+				)
+				(pin
+					(num "19")
+					(name "PB1")
+					(type "bidirectional")
+				)
+				(pin
+					(num "20")
+					(name "PB2")
+					(type "bidirectional")
+				)
+				(pin
+					(num "21")
+					(name "PB10")
+					(type "bidirectional")
+				)
+				(pin
+					(num "22")
+					(name "PB11")
+					(type "bidirectional")
+				)
+				(pin
+					(num "23")
+					(name "VSS_1")
+					(type "power_in")
+				)
+				(pin
+					(num "24")
+					(name "VDD_1")
+					(type "power_in")
+				)
+				(pin
+					(num "25")
+					(name "PB12")
+					(type "bidirectional")
+				)
+				(pin
+					(num "26")
+					(name "PB13")
+					(type "bidirectional")
+				)
+				(pin
+					(num "27")
+					(name "PB14")
+					(type "bidirectional")
+				)
+				(pin
+					(num "28")
+					(name "PB15")
+					(type "bidirectional")
+				)
+				(pin
+					(num "29")
+					(name "PA8")
+					(type "bidirectional")
+				)
+				(pin
+					(num "30")
+					(name "PA9")
+					(type "bidirectional")
+				)
+				(pin
+					(num "31")
+					(name "PA10")
+					(type "bidirectional")
+				)
+				(pin
+					(num "32")
+					(name "PA11")
+					(type "bidirectional")
+				)
+				(pin
+					(num "33")
+					(name "PA12")
+					(type "bidirectional")
+				)
+				(pin
+					(num "34")
+					(name "PA13")
+					(type "bidirectional")
+				)
+				(pin
+					(num "35")
+					(name "VSS_2")
+					(type "power_in")
+				)
+				(pin
+					(num "36")
+					(name "VDDUSB")
+					(type "power_in")
+				)
+				(pin
+					(num "37")
+					(name "PA14")
+					(type "bidirectional")
+				)
+				(pin
+					(num "38")
+					(name "PA15")
+					(type "bidirectional")
+				)
+				(pin
+					(num "39")
+					(name "PB3")
+					(type "bidirectional")
+				)
+				(pin
+					(num "40")
+					(name "PB4")
+					(type "bidirectional")
+				)
+				(pin
+					(num "41")
+					(name "PB5")
+					(type "bidirectional")
+				)
+				(pin
+					(num "42")
+					(name "PB6")
+					(type "bidirectional")
+				)
+				(pin
+					(num "43")
+					(name "PB7")
+					(type "bidirectional")
+				)
+				(pin
+					(num "44")
+					(name "PH3-BOOT0")
+					(type "bidirectional")
+				)
+				(pin
+					(num "45")
+					(name "PB8")
+					(type "bidirectional")
+				)
+				(pin
+					(num "46")
+					(name "PB9")
+					(type "bidirectional")
+				)
+				(pin
+					(num "47")
+					(name "VSS_3")
+					(type "power_in")
+				)
+				(pin
+					(num "48")
+					(name "VDD_2")
+					(type "power_in")
+				)
+			)
+		)
+		(libpart
+			(lib "project_symbols")
+			(part "W25Q128JVEIQ")
+			(description "16MB Flash Storage Quad SPI")
+			(docs "W25Q128JVEIQ")
+			(footprints
+				(fp "WSON_128JVEIQ_WIN")
+				(fp "WSON_128JVEIQ_WIN-M")
+				(fp "WSON_128JVEIQ_WIN-L")
+			)
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value") "W25Q128JVEIQ")
+				(field
+					(name "Footprint") "project_footprints:WSON_128JVEIQ_WIN-M")
+				(field
+					(name "Datasheet") "W25Q128JVEIQ")
+				(field
+					(name "Description") "16MB Flash Storage Quad SPI")
+				(field
+					(name "MFG") "Winbond Electronics")
+				(field
+					(name "JLC Part #") "C2456297")
+				(field
+					(name "MFG #") "W25Q128JVEIQ")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "1")
+					(type "unspecified")
+				)
+				(pin
+					(num "2")
+					(name "2")
+					(type "unspecified")
+				)
+				(pin
+					(num "3")
+					(name "3")
+					(type "unspecified")
+				)
+				(pin
+					(num "4")
+					(name "4")
+					(type "unspecified")
+				)
+				(pin
+					(num "5")
+					(name "5")
+					(type "unspecified")
+				)
+				(pin
+					(num "6")
+					(name "6")
+					(type "unspecified")
+				)
+				(pin
+					(num "7")
+					(name "7")
+					(type "unspecified")
+				)
+				(pin
+					(num "8")
+					(name "8")
+					(type "unspecified")
+				)
+				(pin
+					(num "9")
+					(name "9")
+					(type "unspecified")
+				)
+			)
+		)
+	)
+	(libraries
+		(library
+			(logical "Connector")
+			(uri "${KICAD10_SYMBOL_DIR}/Connector.kicad_sym")
+		)
+		(library
+			(logical "project_symbols")
+			(uri "${KIPRJMOD}/project_symbols.kicad_sym")
+		)
+	)
+	(nets
+		(net
+			(code "1")
+			(name "+3.3V")
+			(class "Default")
+			(node
+				(ref "C20")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C22")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C23")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C4")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C5")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C6")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C7")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C8")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C9")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "D3")
+				(pin "1")
+				(pinfunction "K1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "J1")
+				(pin "1")
+				(pinfunction "VCC_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "R1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R13")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R16")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "TP3")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "1")
+				(pinfunction "VBAT_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U1")
+				(pin "24")
+				(pinfunction "VDD_1_24")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U1")
+				(pin "36")
+				(pinfunction "VDDUSB_36")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U1")
+				(pin "48")
+				(pinfunction "VDD_2_48")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U1")
+				(pin "9")
+				(pinfunction "VDDA/VREF_P_9")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U2")
+				(pin "8")
+				(pinfunction "8_8")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "U5")
+				(pin "5")
+				(pinfunction "VOUT_5")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "2")
+			(name "+5V")
+			(class "Default")
+			(node
+				(ref "C1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C13")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C14")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C16")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C19")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "L1")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R15")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP2")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U3")
+				(pin "7")
+				(pinfunction "VDD_7")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U3")
+				(pin "8")
+				(pinfunction "VDD_8")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U4")
+				(pin "1")
+				(pinfunction "FB_1")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "U5")
+				(pin "1")
+				(pinfunction "VIN_1")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "3")
+			(name "+12V")
+			(class "Default")
+			(node
+				(ref "C12")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C18")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D1")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "J2")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP1")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U4")
+				(pin "2")
+				(pinfunction "EN_2")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "U4")
+				(pin "3")
+				(pinfunction "VIN_3")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "4")
+			(name "/IO0")
+			(class "Default")
+			(node
+				(ref "R8")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U2")
+				(pin "5")
+				(pinfunction "5_5")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "5")
+			(name "/IO1")
+			(class "Default")
+			(node
+				(ref "R7")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "18")
+				(pinfunction "PB0_18")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "6")
+			(name "/IO2")
+			(class "Default")
+			(node
+				(ref "R4")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U2")
+				(pin "3")
+				(pinfunction "3_3")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "7")
+			(name "/IO3")
+			(class "Default")
+			(node
+				(ref "R3")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U2")
+				(pin "7")
+				(pinfunction "7_7")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "8")
+			(name "/OSC_IN")
+			(class "Default")
+			(node
+				(ref "C3")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "5")
+				(pinfunction "PH0-OSC_IN_5")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "Y1")
+				(pin "1")
+				(pinfunction "IN/OUT_1")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "9")
+			(name "/OSC_OUT")
+			(class "Default")
+			(node
+				(ref "C2")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "6")
+				(pinfunction "PH1-OSC_OUT_6")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "Y1")
+				(pin "3")
+				(pinfunction "OUT/IN_3")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "10")
+			(name "/RESET")
+			(class "Default")
+			(node
+				(ref "C10")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "J1")
+				(pin "3")
+				(pinfunction "~{RESET}_3")
+				(pintype "open_collector")
+			)
+			(node
+				(ref "R1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "7")
+				(pinfunction "~{RST}_7")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "11")
+			(name "/SAI_FS_WS_LRCLK")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "46")
+				(pinfunction "PB9_46")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "U3")
+				(pin "14")
+				(pinfunction "LRCLK_14")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "12")
+			(name "/SAI_SCK")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "21")
+				(pinfunction "PB10_21")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "U3")
+				(pin "16")
+				(pinfunction "BCLK_16")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "13")
+			(name "/SAI_SD_DIN")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "28")
+				(pinfunction "PB15_28")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "U3")
+				(pin "1")
+				(pinfunction "DIN_1")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "14")
+			(name "/SWCLK")
+			(class "Default")
+			(node
+				(ref "D2")
+				(pin "4")
+				(pinfunction "CATHODE_(DIODE_3)_4")
+				(pintype "passive")
+			)
+			(node
+				(ref "R9")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "37")
+				(pinfunction "PA14_37")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "15")
+			(name "/SWDIO")
+			(class "Default")
+			(node
+				(ref "D2")
+				(pin "3")
+				(pinfunction "CATHODE_(DIODE_2)_3")
+				(pintype "passive")
+			)
+			(node
+				(ref "J1")
+				(pin "2")
+				(pinfunction "SWDIO_2")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "R10")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "16")
+			(name "/SWO")
+			(class "Default")
+			(node
+				(ref "D2")
+				(pin "1")
+				(pinfunction "CATHODE_(DIODE_1)_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "J1")
+				(pin "6")
+				(pinfunction "SWO_6")
+				(pintype "input")
+			)
+			(node
+				(ref "R11")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "17")
+			(name "/W25_CLK")
+			(class "Default")
+			(node
+				(ref "R6")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U2")
+				(pin "6")
+				(pinfunction "6_6")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "18")
+			(name "/W25_CS")
+			(class "Default")
+			(node
+				(ref "R5")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U2")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "19")
+			(name "/speaker+")
+			(class "Default")
+			(node
+				(ref "LS1")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "input")
+			)
+			(node
+				(ref "U3")
+				(pin "9")
+				(pinfunction "OUTP_9")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "20")
+			(name "/speaker-")
+			(class "Default")
+			(node
+				(ref "LS1")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "input")
+			)
+			(node
+				(ref "U3")
+				(pin "10")
+				(pinfunction "OUTN_10")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "21")
+			(name "/switch")
+			(class "Default")
+			(node
+				(ref "C11")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D2")
+				(pin "5")
+				(pinfunction "CATHODE_(DIODE_4)_5")
+				(pintype "passive")
+			)
+			(node
+				(ref "R2")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP4")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "27")
+				(pinfunction "PB14_27")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "22")
+			(name "/volume")
+			(class "Default")
+			(node
+				(ref "R16")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "U1")
+				(pin "14")
+				(pinfunction "PA4_14")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "23")
+			(name "GND")
+			(class "Default")
+			(node
+				(ref "C1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C10")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C11")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C12")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C13")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C14")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C16")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C18")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C19")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C2")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C20")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C21")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C22")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C23")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C3")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C4")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C5")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C6")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C7")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C8")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C9")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D1")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "D2")
+				(pin "2")
+				(pinfunction "COMMON_ANODE_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "D3")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "J1")
+				(pin "5")
+				(pinfunction "GND_5")
+				(pintype "power_in")
+			)
+			(node
+				(ref "J2")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "J2")
+				(pin "3")
+				(pintype "passive")
+			)
+			(node
+				(ref "R12")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R16")
+				(pin "3")
+				(pinfunction "3_3")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "S1")
+				(pin "3")
+				(pinfunction "COM_1_3")
+				(pintype "passive")
+			)
+			(node
+				(ref "S1")
+				(pin "4")
+				(pinfunction "COM_2_4")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "23")
+				(pinfunction "VSS_1_23")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U1")
+				(pin "35")
+				(pinfunction "VSS_2_35")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U1")
+				(pin "47")
+				(pinfunction "VSS_3_47")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U1")
+				(pin "8")
+				(pinfunction "VSSA/VREF_M_8")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U2")
+				(pin "4")
+				(pinfunction "4_4")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "U2")
+				(pin "9")
+				(pinfunction "9_9")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "U3")
+				(pin "11")
+				(pinfunction "GND_11")
+				(pintype "power_out")
+			)
+			(node
+				(ref "U3")
+				(pin "15")
+				(pinfunction "GND_15")
+				(pintype "power_out")
+			)
+			(node
+				(ref "U3")
+				(pin "17")
+				(pinfunction "EPAD_17")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "U3")
+				(pin "2")
+				(pinfunction "GAIN_SLOT_2")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "U3")
+				(pin "3")
+				(pinfunction "GND_3")
+				(pintype "power_out")
+			)
+			(node
+				(ref "U4")
+				(pin "4")
+				(pinfunction "GND_4")
+				(pintype "power_out")
+			)
+			(node
+				(ref "U5")
+				(pin "2")
+				(pinfunction "GND_2")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "Y1")
+				(pin "2")
+				(pinfunction "GND_2")
+				(pintype "power_in")
+			)
+			(node
+				(ref "Y1")
+				(pin "4")
+				(pinfunction "GND__1_4")
+				(pintype "power_in")
+			)
+		)
+		(net
+			(code "24")
+			(name "Net-(J1-SWCLK)")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "4")
+				(pinfunction "SWCLK_4")
+				(pintype "output")
+			)
+			(node
+				(ref "R9")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "25")
+			(name "Net-(R7-Pad2)")
+			(class "Default")
+			(node
+				(ref "R7")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U2")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "26")
+			(name "Net-(S1-NO_1)")
+			(class "Default")
+			(node
+				(ref "R13")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R2")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "S1")
+				(pin "1")
+				(pinfunction "NO_1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "S1")
+				(pin "2")
+				(pinfunction "NO_2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "27")
+			(name "Net-(U1-PA2)")
+			(class "Default")
+			(node
+				(ref "R5")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "12")
+				(pinfunction "PA2_12")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "28")
+			(name "Net-(U1-PA3)")
+			(class "Default")
+			(node
+				(ref "R6")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "13")
+				(pinfunction "PA3_13")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "29")
+			(name "Net-(U1-PA6)")
+			(class "Default")
+			(node
+				(ref "R3")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "16")
+				(pinfunction "PA6_16")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "30")
+			(name "Net-(U1-PA7)")
+			(class "Default")
+			(node
+				(ref "R4")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "17")
+				(pinfunction "PA7_17")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "31")
+			(name "Net-(U1-PA13)")
+			(class "Default")
+			(node
+				(ref "R10")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "34")
+				(pinfunction "PA13_34")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "32")
+			(name "Net-(U1-PB1)")
+			(class "Default")
+			(node
+				(ref "R8")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "19")
+				(pinfunction "PB1_19")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "33")
+			(name "Net-(U1-PB3)")
+			(class "Default")
+			(node
+				(ref "R11")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "39")
+				(pinfunction "PB3_39")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "34")
+			(name "Net-(U1-PB11)")
+			(class "Default")
+			(node
+				(ref "R14")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "22")
+				(pinfunction "PB11_22")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "35")
+			(name "Net-(U1-PH3-BOOT0)")
+			(class "Default")
+			(node
+				(ref "R12")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "44")
+				(pinfunction "PH3-BOOT0_44")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "36")
+			(name "Net-(U3-*SD_MODE)")
+			(class "Default")
+			(node
+				(ref "R14")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U3")
+				(pin "4")
+				(pinfunction "*SD_MODE_4")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "37")
+			(name "Net-(U4-BST)")
+			(class "Default")
+			(node
+				(ref "C15")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U4")
+				(pin "6")
+				(pinfunction "BST_6")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "38")
+			(name "Net-(U4-SW)")
+			(class "Default")
+			(node
+				(ref "C15")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "L1")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U4")
+				(pin "5")
+				(pinfunction "SW_5")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "39")
+			(name "Net-(U5-EN)")
+			(class "Default")
+			(node
+				(ref "C21")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R15")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U5")
+				(pin "3")
+				(pinfunction "EN_3")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "40")
+			(name "unconnected-(U1-PA0-Pad10)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "10")
+				(pinfunction "PA0_10")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "41")
+			(name "unconnected-(U1-PA1-Pad11)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "11")
+				(pinfunction "PA1_11")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "42")
+			(name "unconnected-(U1-PA5-Pad15)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "15")
+				(pinfunction "PA5_15")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "43")
+			(name "unconnected-(U1-PA8-Pad29)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "29")
+				(pinfunction "PA8_29")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "44")
+			(name "unconnected-(U1-PA9-Pad30)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "30")
+				(pinfunction "PA9_30")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "45")
+			(name "unconnected-(U1-PA10-Pad31)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "31")
+				(pinfunction "PA10_31")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "46")
+			(name "unconnected-(U1-PA11-Pad32)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "32")
+				(pinfunction "PA11_32")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "47")
+			(name "unconnected-(U1-PA12-Pad33)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "33")
+				(pinfunction "PA12_33")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "48")
+			(name "unconnected-(U1-PA15-Pad38)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "38")
+				(pinfunction "PA15_38")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "49")
+			(name "unconnected-(U1-PB2-Pad20)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "20")
+				(pinfunction "PB2_20")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "50")
+			(name "unconnected-(U1-PB4-Pad40)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "40")
+				(pinfunction "PB4_40")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "51")
+			(name "unconnected-(U1-PB5-Pad41)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "41")
+				(pinfunction "PB5_41")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "52")
+			(name "unconnected-(U1-PB6-Pad42)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "42")
+				(pinfunction "PB6_42")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "53")
+			(name "unconnected-(U1-PB7-Pad43)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "43")
+				(pinfunction "PB7_43")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "54")
+			(name "unconnected-(U1-PB8-Pad45)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "45")
+				(pinfunction "PB8_45")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "55")
+			(name "unconnected-(U1-PB12-Pad25)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "25")
+				(pinfunction "PB12_25")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "56")
+			(name "unconnected-(U1-PB13-Pad26)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "26")
+				(pinfunction "PB13_26")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "57")
+			(name "unconnected-(U1-PC13-Pad2)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "2")
+				(pinfunction "PC13_2")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "58")
+			(name "unconnected-(U1-PC14-OSC32_IN-Pad3)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "3")
+				(pinfunction "PC14-OSC32_IN_3")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "59")
+			(name "unconnected-(U1-PC15-OSC32_OUT-Pad4)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "4")
+				(pinfunction "PC15-OSC32_OUT_4")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "60")
+			(name "unconnected-(U3-N.C.-Pad5)")
+			(class "Default")
+			(node
+				(ref "U3")
+				(pin "5")
+				(pinfunction "N.C._5")
+				(pintype "no_connect")
+			)
+		)
+		(net
+			(code "61")
+			(name "unconnected-(U3-N.C.-Pad6)")
+			(class "Default")
+			(node
+				(ref "U3")
+				(pin "6")
+				(pinfunction "N.C._6")
+				(pintype "no_connect")
+			)
+		)
+		(net
+			(code "62")
+			(name "unconnected-(U3-N.C.-Pad12)")
+			(class "Default")
+			(node
+				(ref "U3")
+				(pin "12")
+				(pinfunction "N.C._12")
+				(pintype "no_connect")
+			)
+		)
+		(net
+			(code "63")
+			(name "unconnected-(U3-N.C.-Pad13)")
+			(class "Default")
+			(node
+				(ref "U3")
+				(pin "13")
+				(pinfunction "N.C._13")
+				(pintype "no_connect")
+			)
+		)
+		(net
+			(code "64")
+			(name "unconnected-(U5-NC-Pad4)")
+			(class "Default")
+			(node
+				(ref "U5")
+				(pin "4")
+				(pinfunction "NC_4")
+				(pintype "unspecified+no_connect")
+			)
+		)
+	)
+)
